@@ -12,3 +12,20 @@ oin us in reshaping the landscape of pharmaceutical research with a tool that un
 ## Architecture
 
 <img src="https://th.bing.com/th/id/OIP.gWan4GieZZDTvcsVUNHfcQHaIY?rs=1&pid=ImgDetMain" />
+
+## Authors
+
+- [@Abellegese](https://www.github.com/Abellegese)
+
+## Paper
+@article{ying2021transformers,
+  title={Do transformers really perform badly for graph representation?},
+  author={Ying, Chengxuan and Cai, Tianle and Luo, Shengjie and Zheng, Shuxin and Ke, Guolin and He, Di and Shen, Yanming and Liu, Tie-Yan},
+  journal={Advances in Neural Information Processing Systems},
+  volume={34},
+  pages={28877--28888},
+  year={2021}
+}
+
+
+
