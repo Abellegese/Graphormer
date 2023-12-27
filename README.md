@@ -8,3 +8,7 @@ Introducing a groundbreaking drug design library at the forefront of innovation,
 This cutting-edge network, intricately designed, predicts drug compounds based on protein structures. 
 Bridging the realms of computational biology and artificial intelligence, our library pioneers a transformative approach to drug discovery. J
 oin us in reshaping the landscape of pharmaceutical research with a tool that unlocks the potential of graph transformers for accurate and efficient drug design based on protein structures.
+
+## Architecture
+
+<img src="https://th.bing.com/th/id/OIP.gWan4GieZZDTvcsVUNHfcQHaIY?rs=1&pid=ImgDetMain" />
